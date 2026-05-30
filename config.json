@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondalculate",
+        "uuid": 2250976,
+        "checksum": "ojnxr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
